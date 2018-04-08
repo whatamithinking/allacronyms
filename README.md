@@ -1,6 +1,6 @@
 
 <p align="left">
-<img src="https://github.com/ConnorSMaynes/allacronyms/blob/master/allacronyms/static/logo.jpeg" alt="AllAcronyms Unofficial API" >
+<img src="https://github.com/ConnorSMaynes/allacronyms/blob/master/allacronyms/static/logo.jpg" alt="AllAcronyms Unofficial API" >
 </p>
 
 An unofficial api to allacronyms.com. Lookup / expand abbreviations. Lookup definitions of abbreviations.
